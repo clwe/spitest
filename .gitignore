@@ -1,0 +1,6 @@
+ .o
+ .symvers
+ .tmp_versions/
+ modules.order
+ .spitest*
+ .mod.*
